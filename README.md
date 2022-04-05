@@ -1,2 +1,4 @@
 # Osamu
-Osamu Bot
+Osamu
+
+What is Osamu?
