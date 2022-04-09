@@ -1,0 +1,25 @@
+{
+  "name": "osamu",
+  "version": "1.0.0",
+  "description": "What is Osamu?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soesu/Osamu.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "soesu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soesu/Osamu/issues"
+  },
+  "homepage": "https://github.com/soesu/Osamu#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
